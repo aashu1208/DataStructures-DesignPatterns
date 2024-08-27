@@ -1,0 +1,16 @@
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\bin\Debug\net5.0\Data_Structures_List.exe
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\bin\Debug\net5.0\Data_Structures_List.deps.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\bin\Debug\net5.0\Data_Structures_List.runtimeconfig.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\bin\Debug\net5.0\Data_Structures_List.runtimeconfig.dev.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\bin\Debug\net5.0\Data_Structures_List.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\bin\Debug\net5.0\ref\Data_Structures_List.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\bin\Debug\net5.0\Data_Structures_List.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\Data_Structures_List.csproj.AssemblyReference.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\Data_Structures_List.GeneratedMSBuildEditorConfig.editorconfig
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\Data_Structures_List.AssemblyInfoInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\Data_Structures_List.AssemblyInfo.cs
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\Data_Structures_List.csproj.CoreCompileInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\Data_Structures_List.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\ref\Data_Structures_List.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\Data_Structures_List.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Data_Structures_List\Data_Structures_List\obj\Debug\net5.0\Data_Structures_List.genruntimeconfig.cache
