@@ -36,8 +36,24 @@ namespace Data_Structures_List
             HashSet<int> num2 = new HashSet<int> { 5, 6, 7, 8 };
 
             num.UnionWith(num2);
-            Console.WriteLine(string.Join(",", num));
+            //Console.WriteLine(string.Join(",", num));
+
+            Dictionary<string, int> dict = new Dictionary<string, int>();
+            dict.Add("aashu", 1);
+            dict.Add("sharma", 2);
+            if (dict.TryGetValue("aashu", out int value))
+            {
+                Console.WriteLine("Value associated with aashu:" + value);
+            }
+
+            else
+            {
+                Console.WriteLine("Value does not exist");
+            }
+
+            //Console.WriteLine("{"+string.Join(",", dict)+"}");
             
+
         }
     }
 }
