@@ -2,12 +2,27 @@
 using System.Collections.Generic;
 namespace Data_Structures_List
 {
+
+    public enum state
+    {
+        None,
+        First,
+        Second,
+        Third
+
+    }
     class Program
     {
         static void Main(string[] args)
         {
+            /*foreach (var states in state)
+            {
+                if (state.None)
+                {
 
-
+                }
+            }
+*/
             List<int> numbers = new List<int> {1,2,3,4};
             //numbers.AddRange(new List<int> { 4, 5, 6 });
             //numbers.RemoveAt(0);
@@ -38,6 +53,7 @@ namespace Data_Structures_List
             num.UnionWith(num2);
             //Console.WriteLine(string.Join(",", num));
 
+        
             Dictionary<string, int> dict = new Dictionary<string, int>();
             dict.Add("aashu", 1);
             dict.Add("sharma", 2);
