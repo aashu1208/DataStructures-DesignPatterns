@@ -1,0 +1,16 @@
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\bin\Debug\net5.0\MissingNumber.exe
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\bin\Debug\net5.0\MissingNumber.deps.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\bin\Debug\net5.0\MissingNumber.runtimeconfig.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\bin\Debug\net5.0\MissingNumber.runtimeconfig.dev.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\bin\Debug\net5.0\MissingNumber.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\bin\Debug\net5.0\ref\MissingNumber.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\bin\Debug\net5.0\MissingNumber.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\MissingNumber.csproj.AssemblyReference.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\MissingNumber.AssemblyInfoInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\MissingNumber.AssemblyInfo.cs
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\MissingNumber.csproj.CoreCompileInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\MissingNumber.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\ref\MissingNumber.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\MissingNumber.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\MissingNumber\MissingNumber\obj\Debug\net5.0\MissingNumber.genruntimeconfig.cache
