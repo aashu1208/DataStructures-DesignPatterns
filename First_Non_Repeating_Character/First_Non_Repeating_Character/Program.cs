@@ -16,13 +16,22 @@ namespace First_Non_Repeating_Character
                 if (freq.ContainsKey(currentChar))
                 {
                     frequency_Of_Character = freq[currentChar]++;
-                    Console.WriteLine(frequency_Of_Character);
+                    //Console.WriteLine(frequency_Of_Character);
                 }
 
                 else
                 {
                     frequency_Of_Character = freq[currentChar] = 1;
-                    Console.WriteLine(frequency_Of_Character);
+                    //Console.WriteLine(frequency_Of_Character);
+                }
+            }
+
+            foreach (KeyValuePair<char, int> kvp in freq)
+            {
+                Console.WriteLine("Character: " + kvp.Key + " Count:" + kvp.Value);
+                if (kvp.Value == 1)
+                {
+                    Console.WriteLine(kvp.Key);
                 }
             }
         }
