@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Addition_Of_Array_Elements/1.0.0": {
+        "runtime": {
+          "Addition_Of_Array_Elements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Addition_Of_Array_Elements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
