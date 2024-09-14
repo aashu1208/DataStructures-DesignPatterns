@@ -1,11 +1,12 @@
 ﻿using System;
-using System.Threading;
+using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace MutliThreading
 {
     class Program
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             Program prog = new Program();
 
@@ -32,6 +33,26 @@ namespace MutliThreading
             int result = 6 - 5;
             Console.WriteLine("Sub: " + result);
 
+        }*/
+
+        static async Task Main(string[] args)
+        {
+
+            try
+            {
+                
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+            finally
+            {
+
+
+            }
         }
     }
 }
