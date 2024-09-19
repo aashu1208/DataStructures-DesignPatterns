@@ -1,0 +1,16 @@
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\bin\Debug\net5.0\Hashset Practiice Ques.exe
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\bin\Debug\net5.0\Hashset Practiice Ques.deps.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\bin\Debug\net5.0\Hashset Practiice Ques.runtimeconfig.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\bin\Debug\net5.0\Hashset Practiice Ques.runtimeconfig.dev.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\bin\Debug\net5.0\Hashset Practiice Ques.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\bin\Debug\net5.0\ref\Hashset Practiice Ques.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\bin\Debug\net5.0\Hashset Practiice Ques.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\Hashset Practiice Ques.csproj.AssemblyReference.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\Hashset Practiice Ques.GeneratedMSBuildEditorConfig.editorconfig
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\Hashset Practiice Ques.AssemblyInfoInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\Hashset Practiice Ques.AssemblyInfo.cs
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\Hashset Practiice Ques.csproj.CoreCompileInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\Hashset Practiice Ques.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\ref\Hashset Practiice Ques.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\Hashset Practiice Ques.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Hashset Practiice Ques\Hashset Practiice Ques\obj\Debug\net5.0\Hashset Practiice Ques.genruntimeconfig.cache
