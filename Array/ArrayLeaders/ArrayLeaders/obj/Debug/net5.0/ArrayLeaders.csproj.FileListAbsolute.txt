@@ -1,0 +1,16 @@
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\bin\Debug\net5.0\ArrayLeaders.exe
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\bin\Debug\net5.0\ArrayLeaders.deps.json
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\bin\Debug\net5.0\ArrayLeaders.runtimeconfig.json
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\bin\Debug\net5.0\ArrayLeaders.runtimeconfig.dev.json
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\bin\Debug\net5.0\ArrayLeaders.dll
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\bin\Debug\net5.0\ref\ArrayLeaders.dll
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\bin\Debug\net5.0\ArrayLeaders.pdb
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ArrayLeaders.csproj.AssemblyReference.cache
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ArrayLeaders.GeneratedMSBuildEditorConfig.editorconfig
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ArrayLeaders.AssemblyInfoInputs.cache
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ArrayLeaders.AssemblyInfo.cs
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ArrayLeaders.csproj.CoreCompileInputs.cache
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ArrayLeaders.dll
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ref\ArrayLeaders.dll
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ArrayLeaders.pdb
+F:\Datastructures-DesignPatterns\Array\ArrayLeaders\ArrayLeaders\obj\Debug\net5.0\ArrayLeaders.genruntimeconfig.cache
