@@ -12,7 +12,7 @@ namespace MissingNumber
             TargetNumber();
         }
 
-       /* private static void MissingNumber()
+        private static void MissingNumber()
         {
             int[] numbers = new int[6] { 1, 2, 3, 5, 6, 7 };
             int lengthOfArray = numbers.Length + 1;
@@ -21,12 +21,12 @@ namespace MissingNumber
 
             int missingNum = sum - sumOfArray;
             Console.WriteLine("Missing Number is: " + missingNum);
-        }*/
+        }
 
-        public static void TargetNumber()
+        /*public int[] TargetNumber(int target, int[] nums)
         {
 
-            int[] numbers = new int[6] { 1, 5, 4, 2, 3, 3 };
+            *//*int[] numbers = new int[6] { 1, 5, 4, 2, 3, 3 };
 
             int target = 6;
 
@@ -39,7 +39,12 @@ namespace MissingNumber
                         Console.WriteLine(numbers[i] + " + " + numbers[j] + "=" + target);
                     }
                 }
-            }
-        }
+            }*//*
+            for (int i = 0; i < nums.Length; i++)
+                for (int j = i + 1; j < nums.Length; j++)
+                    if (nums[i] + nums[j] == target)
+                        return new int[] { i,j};
+
+        }*/
     }
 }
