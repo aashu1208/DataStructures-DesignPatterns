@@ -1,0 +1,16 @@
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\bin\Debug\net5.0\ArraySubset.exe
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\bin\Debug\net5.0\ArraySubset.deps.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\bin\Debug\net5.0\ArraySubset.runtimeconfig.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\bin\Debug\net5.0\ArraySubset.runtimeconfig.dev.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\bin\Debug\net5.0\ArraySubset.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\bin\Debug\net5.0\ref\ArraySubset.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\bin\Debug\net5.0\ArraySubset.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ArraySubset.csproj.AssemblyReference.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ArraySubset.GeneratedMSBuildEditorConfig.editorconfig
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ArraySubset.AssemblyInfoInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ArraySubset.AssemblyInfo.cs
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ArraySubset.csproj.CoreCompileInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ArraySubset.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ref\ArraySubset.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ArraySubset.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\ArraySubset\ArraySubset\obj\Debug\net5.0\ArraySubset.genruntimeconfig.cache
