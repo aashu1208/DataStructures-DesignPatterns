@@ -1,0 +1,16 @@
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.exe
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.deps.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.runtimeconfig.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.runtimeconfig.dev.json
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\bin\Debug\net5.0\ref\TwoSum.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.csproj.AssemblyReference.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfoInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfo.cs
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.csproj.CoreCompileInputs.cache
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\ref\TwoSum.dll
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.pdb
+F:\Datastructures-DesignPatterns\DataStructures-DesignPatterns\Array\Basics\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.genruntimeconfig.cache
